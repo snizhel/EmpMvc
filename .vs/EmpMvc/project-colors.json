@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e823d326-6c91-4cf2-a72d-28c3c585c602": {
+      "ProjectGuid": "e823d326-6c91-4cf2-a72d-28c3c585c602",
+      "DisplayName": "EmpMvc",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
